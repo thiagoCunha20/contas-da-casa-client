@@ -8,8 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:contas-da-casa": "node dist/contas-da-casa/server/server.mjs",
-    "commit": "git add . && git commit -m ",
-    "push": "git push"
+    "commit": "git add . && git commit -m "
   },
   "private": true,
   "dependencies": {
