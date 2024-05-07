@@ -1,5 +1,5 @@
 {
-  "name": "contas-da-casa",
+  "name": "contas-da-casa-client",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,9 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:contas-da-casa": "node dist/contas-da-casa/server/server.mjs"
+    "serve:ssr:contas-da-casa": "node dist/contas-da-casa/server/server.mjs",
+    "commit": "git add . && git commit -m ",
+    "push": "git push"
   },
   "private": true,
   "dependencies": {
