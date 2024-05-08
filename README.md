@@ -9,4 +9,4 @@ Este projeto é interface do Contas da Casa. Nessa primeira versão será implem
 
 OBS.:
 - Por se tratar de um sistema de controle financeiro os dados serão baseado no mês de referência.
-- Usaremos o Google Material para facilitar a interface.
+- Usaremos o Angular Material para facilitar a interface.
